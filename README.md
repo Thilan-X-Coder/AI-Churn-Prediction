@@ -66,5 +66,4 @@ This project is a **Customer Churn Prediction system** designed for SaaS busines
   "support_ratio": 0.1
 }
 
----
 
