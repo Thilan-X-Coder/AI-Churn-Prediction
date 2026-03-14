@@ -66,10 +66,13 @@ This project is a **Customer Churn Prediction system** designed for SaaS busines
   "support_ratio": 0.1
 }
 
+```
+
 ---
 
-## Watch the demo here:
+## Demo Video
 
-https://drive.google.com/file/d/1lnSQKTLK_0aIPs63DCdztVdb6yRSMYBQ/view?usp=sharing
+You can watch the full system demonstration here:
 
+🔗 https://drive.google.com/file/d/1lnSQKTLK_0aIPs63DCdztVdb6yRSMYBQ/view?usp=sharing
 
